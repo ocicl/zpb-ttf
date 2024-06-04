@@ -3,7 +3,7 @@
 Access TrueType fonts with Common Lisp
 
 |---------+-----------------------------------------------------------------------------|
-| source  | file:https://github.com/xach/zpb-ttf/archive/refs/tags/release-1.0.6.tar.gz |
-| version | 1.0.6                                                                       |
+| source  | file:https://github.com/xach/zpb-ttf/archive/refs/tags/release-1.0.7.tar.gz |
+| version | 1.0.7                                                                       |
 | systems | zpb-ttf                                                                     |
 |---------+-----------------------------------------------------------------------------|
